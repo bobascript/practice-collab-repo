@@ -1,2 +1,2 @@
-# project1-repo
-This is the repo for project 1
+# practice repo
+This is a repo to practice creating a collab repo
